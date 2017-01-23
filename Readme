@@ -1,0 +1,22 @@
+Name: Pratik Shekhar
+ID: 13602117
+Email: ps599@drexel.edu
+Assignment: G2 - OpenCV Mosaic
+
+I really enjoyed this assignment. I found this assignment bit easier than what we have done so far in the course because of the skeleton code given to us. 
+
+I ran the program on tux and it works perfectly fine, without any errors.
+For testing purposes, I also pushed phil.jpg image on bit-bucket.
+I didn't pushed hw3ex to avoid the confusion  because when you type make, it generates it already. 
+
+In total, I pushed the following:
+1. SRC
+2. Makefile
+3.phil.jpg
+4.lib
+5.Readme
+
+To run the program on tux, do the following:
+	type: "make" and hit enter key.
+
+I additionally took help from my fellow class mates in order to finish this assignment. 
